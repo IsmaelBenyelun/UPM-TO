@@ -8,7 +8,6 @@ using tfgfem
 using Optimfunction
 using DelimitedFiles
 
-
 # GLOBAL VARIABLES - Properties
 E0 = 200.0e3 # MPa
 ν = 0.33
@@ -21,7 +20,7 @@ SIZE_X = 100. # mm
 SIZE_Y = 100. # mm
 SIZE_Z = 100. # mm
 
-GAP_X = 12.5 # 5. mm
+GAP_X =  12.5 # 5. mm
 GAP_Y = 12.5 # 5. mm
 GAP_Z = 12.5 # 5. mm
 

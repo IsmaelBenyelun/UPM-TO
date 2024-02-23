@@ -2,8 +2,6 @@ module optim
 
 # Loading dependencies
 using LinearAlgebra
-using DelimitedFiles
-using tfgfem
 
 include("DrMatrix.jl")
 include("invDrMatrix.jl")

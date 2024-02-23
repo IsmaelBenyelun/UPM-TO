@@ -3,7 +3,6 @@ module Optimfunction
 using optim
 using tfgfem
 
-using Plots
 using Statistics
 using LinearAlgebra
 using DelimitedFiles
